@@ -32,6 +32,14 @@ Vah Shir|Normal (Worst)|100% (Normal)|
 
 ### Custom Things To Look Out For
 
+### Guild Masters Are Helpful
+
+When you hail a GuildMaster, you'll learn quickly they offer services beyond just training.
+
+- Enchanters, Druids, Shamans, and Clerics will give level appropiate buffs of their respective classes.
+- Wizards and Druids can teleport you to their typical destinations.
+- Warriors can teleport you to all starter towns.
+
 #### Card Augments
 
 Augments have been simplified and revised! There are now 3 slots for augments: Finger, Weapon, and Chest. 
