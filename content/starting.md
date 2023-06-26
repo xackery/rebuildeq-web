@@ -36,6 +36,7 @@ Vah Shir|Normal (Worst)|100% (Normal)|
 Which deity you pick has a longing impact beyond just cultural armor.
 
 Name|Features
+--|--
 Agnostic|10 AC 5 MR
 Bertoxxulous|Poisons and Diseases can lose a counter every tick
 Brell Serilis|Ultravision and See Invis in Dungeons
@@ -54,9 +55,7 @@ The Tribunal|Smite Proc during melee
 Tunare|All buffs cost 10% less mana
 Veeshan|Songs have 10m longer reach
 
-### Custom Things To Look Out For
-
-#### Guild Masters Do More Than Train
+### Guild Masters Do More Than Train
 
 When you hail a Guild Master, you'll learn quickly they offer services beyond just training.
 
@@ -64,7 +63,7 @@ When you hail a Guild Master, you'll learn quickly they offer services beyond ju
 - Wizards and Druids can teleport you to their typical destinations.
 - Warriors can teleport you to all starter towns.
 
-#### Card Augments
+### Card Augments
 
 Augments have been simplified and revised! There are now 3 slots for augments: Finger, Weapon, and Chest. 
 
