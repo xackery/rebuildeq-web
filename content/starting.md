@@ -31,3 +31,13 @@ Wood Elf|Infravision (Better)|25% (Best)|2 Mana Regeneration, Forage, Hide, 50 M
 Vah Shir|Normal (Worst)|100% (Normal)|
 
 ### Custom Things To Look Out For
+
+#### Card Augments
+
+Augments have been simplified and revised! There are now 3 slots for augments: Finger, Weapon, and Chest. 
+
+- Finger augments are clicky effects that can be used for utility.
+- Weapon augments are procs or banes, enhancing damage.
+- Chest augments are stat modifiers.
+
+As you hunt every creature in Norrath, they can drop cards, so be sure to loot all corpses! You can buy a custom item called a `MonsterDex` on general merchants you would think sell food or water and use it's clicky effect to analyze the cards a monster may drop. [There is also a card reference sheet here](/cards)

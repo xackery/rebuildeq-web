@@ -1,11 +1,11 @@
 ---
-title: "Cards"
-layout: "card"
+title: "Card Augments"
+layout: "cards"
 # url: "/archives"
-summary: "List of Cards available as Augments on RebuildEQ"
+summary: "List of Cards Augments available on RebuildEQ"
 ---
 
-Rebuild EQ introduces a new style of augmenting inspired by Ragnarok Online. When you consider an NPC, you will see special tags associated with them, such as Dark Elf, Summoned, etc. These represent what the creature has a chance to drop.
+Rebuild EQ introduces a new style of augmenting inspired by Ragnarok Online. When you click a MonsterDex, you will see special tags associated with monsters, such as Dark Elf, Summoned, etc. These represent what the creature has a chance to drop.
 
 Card Name|Slot|Rarity|Lore
 --|--|--|--
