@@ -30,7 +30,6 @@ Troll|Infravision (Better)|175% (Worst)|Slam, Racial HP Regeneration, -20 FR
 Wood Elf|Infravision (Better)|25% (Best)|2 Mana Regeneration, Forage, Hide, 50 MR/PR
 Vah Shir|Normal (Worst)|100% (Normal)|
 
-
 ### Deity Matters, Too
 
 Which deity you pick has a longing impact beyond just cultural armor.
@@ -54,6 +53,12 @@ Solusek Ro|Fire spells cost 10% less mana
 The Tribunal|Smite Proc during melee
 Tunare|All buffs cost 10% less mana
 Veeshan|Songs have 10m longer reach
+
+### AAs are Different
+
+Every time you level up, you gain 10 AAs. Achievements can be found in a tab in AAs to gain more AA points, and also are scattered in tasks.
+
+You can see a [list of all AAs on this page](/aa).
 
 ### Guild Masters Do More Than Train
 
