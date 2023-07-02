@@ -8,10 +8,10 @@ summary: "List of Custom AAs available on RebuildEQ"
 
 Rebuild EQ hand crafts all the AAs for a custom experience. AAs are not gained in the classic sense, instead granted when you level up or by completing achievements.
 
-## Custom AAs
+### General AAs - All
 
 Name|Category|Class|Description
----|---|---|---|---
+----|--------|-----|-----------
 Innate Run Speed|General|All|Increase movement from 0% to 3% when not affected by a movement speed buff.
 Packrat|General|All|Reduce weight of items in your inventory from 0% to 3%.
 Planar Power|General|All|Increase max STR/DEX/AGI/DEX/WIS/INT/CHA from 255 to 265 (+10).
@@ -32,6 +32,12 @@ TODO Vah Shir|General|All|As a Vah Shir, you have normal vision, 100% metabolism
 TODO Drakkin|General|All|As a Drakkin, you have normal vision, 100% metabolism
 Shin's Spirit|General|All|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
 Shin's Soul|General|All|When you resist with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal.
+
+
+### Class AAs - Bard
+
+Name|Category|Class|Description
+----|--------|-----|-----------
 TODO Elemental Harmony|Class|Bard|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
 TODO Healing Treble|Class|Bard|Healing songs heal from 0 to 5% more.
 TODO Psalm of Norrath|Class|Bard|Damage shield songs deal from 0 to 10% more damage.
