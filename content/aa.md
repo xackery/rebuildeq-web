@@ -39,3 +39,5 @@ TODO Katta's Concord|Class|Bard|Katta's Song of Sword now also gives a 100 proc 
 TODO Cassindra's Secret|Class|Bard|Enhances Cassindra\'s Elegy from 0 to 2 mana.
 TODO Jonthon's Whistle|Class|Bard|Grants the bard a passive 300 mod proc that deals 12 magic damage.
 Innate Songblade|Class|Bard|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
+Shin's Spirit|General|All|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
+Shin's Soul|General|All|When you resist with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal.
