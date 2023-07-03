@@ -51,3 +51,5 @@ Harmonic Affinity|Class|Bard|10|Increase proc chance modifier from 0% to 2% on a
 Bard's Wish|Class|Bard|1|All beneficial songs last an additional tick.
 Chant Cycle|Class|Bard|10|Chants with DoT effects now deal from 0% to 2% more damage.
 Boastful Bellow|Class|Bard|10|Grants the Boastful Bellow AA which causes damage and briefly stuns the enemy. Lowers reuse time from 0 to 2 seconds.
+Selo's Crescendo|Class|Bard|1|Selo's movement songs now work indoors.
+Soothing Melody|Class|Bard|10|When the bard uses a song with a healing effect on themselves, reduces hate of their target from heal amount * 0 to heal amount * 1.
