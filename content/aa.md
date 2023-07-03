@@ -8,46 +8,46 @@ summary: "List of Custom AAs available on RebuildEQ"
 
 Rebuild EQ hand crafts all the AAs for a custom experience. AAs are not gained in the classic sense, instead granted when you level up or by completing achievements.
 
-### Class AAs - Bard
-
-Name|Category|Class|Description
-----|--------|-----|-----------
-TODO Elemental Harmony|Class|Bard|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
-TODO Healing Treble|Class|Bard|Healing songs heal from 0% to 5% more.
-TODO Psalm of Norrath|Class|Bard|Damage shield songs deal from 0% to 10% more damage.
-TODO Cassindra's Chorus|Class|Bard|Mana songs regen from 0% to 12% more.
-TODO Shield of Songs|Class|Bard|Rune songs increase from 0% to 13% more rune effect.
-TODO Katta's Concord|Class|Bard|Katta's Song of Sword now also gives a 100 proc chance to those with the buff to deal from 0 to 3 weapon damage.
-TODO Cassindra's Secret|Class|Bard|Enhances Cassindra\'s Elegy from 0 to 2 mana.
-TODO Jonthon's Whistle|Class|Bard|Grants the bard a passive 300 mod proc that deals 12 magic damage.
-Innate Songblade|Class|Bard|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
-TODO Harmonic Affinity|Class|Bard|Increase proc chance modifier from 0% to 2% on all spells.
-TODO Bard's Wish|Class|Bard|All beneficial songs last an additional tick.
-TODO Chant Cycle|Class|Bard|Chants with DoT effects now deal from 0% to 2% more damage.
-TODO Boastful Bellow|Class|Bard|Grants the Boastful Bellow AA which causes damage and briefly stuns the enemy. Lowers reuse time from 0 to 2 seconds.
-
-
 ### General AAs - All
 
-Name|Category|Class|Description
-----|--------|-----|-----------
-Innate Run Speed|General|All|Increase movement from 0% to 3% when not affected by a movement speed buff.
-Packrat|General|All|Reduce weight of items in your inventory from 0% to 3%.
-Planar Power|General|All|Increase max STR/DEX/AGI/DEX/WIS/INT/CHA from 255 to 265 (+10).
-TODO Dark Elf|General|All|As a Dark Elf, you have ultravision, 100% metabolism, Hide, 5 Mana Regeneration, and 50 to FR/MR.
-TODO Barbarian|General|All|As a Barbarian, you have normal vision, 25% metabolism, Slam, and 60 to CR/DR.
-TODO Dwarf|General|All|As a Dwarf, you have normal infravision, 150% metabolism, Barrel Roll, and 50 to MR/PR.
-TODO Erudite|General|All|As an Erudite, you have normal vision, 100% metabolism, 5 Mana Regeneration, -5 DR, 25 MR
-TODO Froglok|General|All|As a Froglok, you have normal vision, 100% metabolism, Backflip, and Everlasting Breath
-TODO Gnome|General|All|As a Gnome, you have infravision, 100% metabolism, Tinkering, 2 Mana Regeneration, 50 MR
-TODO Half Elf|General|All|As a Half Elf, you have infravision, 100% metabolism, 2 Mana Regeneration, 20 MR/CR/FR/DR/PR
-TODO High Elf|General|All|As a High Elf, you have infravision, 100% metabolism, 6 Mana Regeneration
-TODO Human|General|All|As a Human, you have normal vision, 100% metabolism, 25 MR/CR/FR/DR/PR
-TODO Iksar|General|All|As an Iksar, you have infravision, 100% metabolism, Forage, Improved Armor Class, Racial HP Regeneration, Everlasting Breath, -10 CR, 30 FR
-TODO Ogre|General|All|As an Ogre, you have infravision, 175% metabolism, Slam, All Direction Stun Immunity
-TODO Troll|General|All|As a Troll, you have infravision, 175% metabolism, Slam, Racial HP Regeneration, -20 FR
-TODO Wood Elf|General|All|As a Wood Elf, you have infravision, 25% metabolism, Forage, Hide, 50 MR/PR
-TODO Vah Shir|General|All|As a Vah Shir, you have normal vision, 100% metabolism
-TODO Drakkin|General|All|As a Drakkin, you have normal vision, 100% metabolism
-TODO Shin's Spirit|General|All|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
-TODO Shin's Soul|General|All|When you get resisted with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal. Charms, Dots, Slows and other duration non-damage offense spells may have lower duration on resist.
+Name|Category|Class|Ranks|Description
+----|--------|-----|-----|-----------
+Innate Run Speed|General|All|10|TODO 
+Packrat|General|All|10|TODO 
+Planar Power|General|All|10|TODO 
+TODO Dark Elf|General|All|1|TODO 
+TODO Barbarian|General|All|1|TODO 
+TODO Dwarf|General|All|1|TODO 
+TODO Erudite|General|All|1|TODO 
+TODO Froglok|General|All|1|TODO 
+TODO Gnome|General|All|1|TODO 
+TODO Half Elf|General|All|1|TODO 
+TODO High Elf|General|All|1|TODO 
+TODO Human|General|All|1|TODO 
+TODO Iksar|General|All|1|TODO 
+TODO Ogre|General|All|1|TODO 
+TODO Troll|General|All|1|TODO 
+TODO Wood Elf|General|All|1|TODO 
+TODO Vah Shir|General|All|1|TODO 
+TODO Drakkin|General|All|1|TODO 
+TODO Shin's Spirit|General|All|10|TODO 
+TODO Shin's Soul|General|All|10|TODO 
+
+
+### Class AAs - Bard
+
+Name|Category|Class|Ranks|Description
+----|--------|-----|-----|-----------
+TODO Elemental Harmony|Class|Bard|10|TODO 
+TODO Healing Treble|Class|Bard|10|TODO 
+TODO Psalm of Norrath|Class|Bard|10|TODO 
+TODO Cassindra's Chorus|Class|Bard|10|TODO 
+TODO Shield of Songs|Class|Bard|10|TODO 
+TODO Katta's Concord|Class|Bard|10|TODO 
+TODO Cassindra's Secret|Class|Bard|10|TODO 
+TODO Jonthon's Whistle|Class|Bard|10|TODO 
+Innate Songblade|Class|Bard|10|TODO 
+TODO Harmonic Affinity|Class|Bard|10|TODO 
+TODO Bard's Wish|Class|Bard|1|TODO 
+TODO Chant Cycle|Class|Bard|10|TODO 
+TODO Boastful Bellow|Class|Bard|10|TODO 
