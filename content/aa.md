@@ -8,6 +8,25 @@ summary: "List of Custom AAs available on RebuildEQ"
 
 Rebuild EQ hand crafts all the AAs for a custom experience. AAs are not gained in the classic sense, instead granted when you level up or by completing achievements.
 
+### Class AAs - Bard
+
+Name|Category|Class|Description
+----|--------|-----|-----------
+TODO Elemental Harmony|Class|Bard|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
+TODO Healing Treble|Class|Bard|Healing songs heal from 0% to 5% more.
+TODO Psalm of Norrath|Class|Bard|Damage shield songs deal from 0% to 10% more damage.
+TODO Cassindra's Chorus|Class|Bard|Mana songs regen from 0% to 12% more.
+TODO Shield of Songs|Class|Bard|Rune songs increase from 0% to 13% more rune effect.
+TODO Katta's Concord|Class|Bard|Katta's Song of Sword now also gives a 100 proc chance to those with the buff to deal from 0 to 3 weapon damage.
+TODO Cassindra's Secret|Class|Bard|Enhances Cassindra\'s Elegy from 0 to 2 mana.
+TODO Jonthon's Whistle|Class|Bard|Grants the bard a passive 300 mod proc that deals 12 magic damage.
+Innate Songblade|Class|Bard|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
+TODO Harmonic Affinity|Class|Bard|Increase proc chance modifier from 0% to 2% on all spells.
+TODO Bard's Wish|Class|Bard|All beneficial songs last an additional tick.
+TODO Chant Cycle|Class|Bard|Chants with DoT effects now deal from 0% to 2% more damage.
+TODO Boastful Bellow|Class|Bard|Grants the Boastful Bellow AA which causes damage and briefly stuns the enemy. Lowers reuse time from 0 to 2 seconds.
+
+
 ### General AAs - All
 
 Name|Category|Class|Description
@@ -30,21 +49,5 @@ TODO Troll|General|All|As a Troll, you have infravision, 175% metabolism, Slam, 
 TODO Wood Elf|General|All|As a Wood Elf, you have infravision, 25% metabolism, Forage, Hide, 50 MR/PR
 TODO Vah Shir|General|All|As a Vah Shir, you have normal vision, 100% metabolism
 TODO Drakkin|General|All|As a Drakkin, you have normal vision, 100% metabolism
-Shin's Spirit|General|All|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
-Shin's Soul|General|All|When you get resisted with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal. Charms, Dots, Slows and other duration non-damage offense spells may have lower duration on resist.
-
-
-### Class AAs - Bard
-
-Name|Category|Class|Description
-----|--------|-----|-----------
-TODO Elemental Harmony|Class|Bard|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
-TODO Healing Treble|Class|Bard|Healing songs heal from 0% to 5% more.
-TODO Psalm of Norrath|Class|Bard|Damage shield songs deal from 0% to 10% more damage.
-TODO Cassindra's Chorus|Class|Bard|Mana songs regen from 0% to 12% more.
-TODO Shield of Songs|Class|Bard|Rune songs increase from 0% to 13% more rune effect.
-TODO Katta's Concord|Class|Bard|Katta's Song of Sword now also gives a 100 proc chance to those with the buff to deal from 0 to 3 weapon damage.
-TODO Cassindra's Secret|Class|Bard|Enhances Cassindra\'s Elegy from 0 to 2 mana.
-TODO Jonthon's Whistle|Class|Bard|Grants the bard a passive 300 mod proc that deals 12 magic damage.
-Innate Songblade|Class|Bard|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
-Harmonic Affinity|Class|Bard|Increase proc chance modifier from 0% to 2% on all spells.
+TODO Shin's Spirit|General|All|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
+TODO Shin's Soul|General|All|When you get resisted with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal. Charms, Dots, Slows and other duration non-damage offense spells may have lower duration on resist.
