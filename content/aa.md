@@ -8,49 +8,50 @@ summary: "List of Custom AAs available on RebuildEQ"
 
 Rebuild EQ hand crafts all the AAs for a custom experience. AAs are not gained in the classic sense, instead granted when you level up or by completing achievements.
 
-### General AAs - All
-
-Name|Category|Class|Ranks|Description
-----|--------|-----|-----|-----------
-{{< xa id="boot-stomp" >}} Innate Run Speed|General|All|10|Increase movement from 0% to 3% when not affected by a movement speed buff.
-{{< xa id="ammo-bag" >}} Packrat|General|All|10|Reduce weight of items in your inventory from 0% to 3%.
-{{< xa id="moon-sun" >}} Planar Power|General|All|10|Increase max STR/DEX/AGI/DEX/WIS/INT/CHA from 255 to 265 (+10).
-{{< xa id="hood" >}} Dark Elf|General|All|1|As a Dark Elf, you have ultravision, 100% metabolism, Hide, 5 Mana Regeneration, and 50 to FR/MR.
-{{< xa id="axe" >}} Barbarian|General|All|1|As a Barbarian, you have normal vision, 25% metabolism, Slam, and 60 to CR/DR.
-{{< xa id="beer" >}} Dwarf|General|All|1|As a Dwarf, you have normal infravision, 150% metabolism, Barrel Roll, and 50 to MR/PR.
-{{< xa id="book" >}} Erudite|General|All|1|As an Erudite, you have normal vision, 100% metabolism, 5 Mana Regeneration, -5 DR, 25 MR
-{{< xa id="water-drop" >}} Froglok|General|All|1|As a Froglok, you have normal vision, 100% metabolism, Backflip, and Everlasting Breath
-{{< xa id="gears" >}} Gnome|General|All|1|As a Gnome, you have infravision, 100% metabolism, Tinkering, 2 Mana Regeneration, 50 MR
-{{< xa id="seagull" >}} Half Elf|General|All|1|As a Half Elf, you have infravision, 100% metabolism, 2 Mana Regeneration, 20 MR/CR/FR/DR/PR
-{{< xa id="flask" >}} High Elf|General|All|1|As a High Elf, you have infravision, 100% metabolism, 6 Mana Regeneration
-{{< xa id="player" >}} Human|General|All|1|As a Human, you have normal vision, 100% metabolism, 25 MR/CR/FR/DR/PR
-{{< xa id="venomous-snake" >}} Iksar|General|All|1|As an Iksar, you have infravision, 100% metabolism, Forage, Improved Armor Class, Racial HP Regeneration, Everlasting Breath, -10 CR, 30 FR
-{{< xa id="muscle-fat" >}} Ogre|General|All|1|As an Ogre, you have infravision, 175% metabolism, Slam, All Direction Stun Immunity
-{{< xa id="health" >}} Troll|General|All|1|As a Troll, you have infravision, 175% metabolism, Slam, Racial HP Regeneration, -20 FR
-{{< xa id="palm-tree" >}} Wood Elf|General|All|1|As a Wood Elf, you have infravision, 25% metabolism, Forage, Hide, 50 MR/PR
-{{< xa id="cat" >}} Vah Shir|General|All|1|As a Vah Shir, you have normal vision, 100% metabolism
-{{< xa id="wyvern" >}} Drakkin|General|All|1|As a Drakkin, you have normal vision, 100% metabolism
-{{< xa id="aura" >}} Shin's Spirit|General|All|10|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
-{{< xa id="aware" >}} Shin's Soul|General|All|10|When you get resisted with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal. Charms, Dots, Slows and other duration non-damage offense spells may have lower duration on resist.
-
-
 ### Class AAs - Bard
 
-Name|Category|Class|Ranks|Description
-----|--------|-----|-----|-----------
-{{< xa id="fire-symbol" >}} Elemental Harmony|Class|Bard|10|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
-{{< xa id="health-increase" >}} Healing Treble|Class|Bard|10|Healing songs heal from 0% to 5% more.
-{{< xa id="heavy-shield" >}} Psalm of Norrath|Class|Bard|10|Damage shield songs deal from 0% to 10% more damage.
-{{< xa id="unplugged" >}} Cassindra's Chorus|Class|Bard|10|Mana songs regen from 0% to 12% more.
-{{< xa id="bolt-shield" >}} Shield of Songs|Class|Bard|10|Rune songs increase from 0% to 13% more rune effect.
-{{< xa id="bottled-bolt" >}} Katta's Concord|Class|Bard|10|Katta's Song of Sword now also gives a 100 proc chance to those with the buff to deal from 0 to 3 weapon damage.
-{{< xa id="pawn" >}} Cassindra's Secret|Class|Bard|10|Enhances Cassindra\'s Elegy from 0 to 2 mana.
-{{< xa id="fluffy-swirl" >}} Jonthon's Whistle|Class|Bard|10|Grants the bard a passive 300 mod proc that deals 12 magic damage.
-{{< xa id="lightning-sword" >}} Innate Songblade|Class|Bard|10|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
-{{< xa id="microphone" >}} Harmonic Affinity|Class|Bard|10|Increase proc chance modifier from 0% to 2% on all spells.
-{{< xa id="ship-emblem" >}} Bard's Wish|Class|Bard|1|All beneficial songs last an additional tick.
-{{< xa id="chain" >}} Chant Cycle|Class|Bard|10|Chants with DoT effects now deal from 0% to 2% more damage.
-{{< xa id="horns" >}} Boastful Bellow|Class|Bard|10|Grants the Boastful Bellow AA which causes damage and briefly stuns the enemy. Lowers reuse time from 0 to 2 seconds.
-{{< xa id="boot-stomp" >}} Selo's Crescendo|Class|Bard|1|Selo's movement songs now work indoors.
-{{< xa id="hearts" >}} Soothing Melody|Class|Bard|10|When the bard uses a song with a healing effect on themselves, reduces hate of their target from heal amount * 0 to heal amount * 1.
-{{< xa id="nodular" >}} Extended Notes|Class|Bard|10|Increases range of beneficial songs from 0% to 10%.
+Name|Category|Class|Ranks|Cost|Description
+----|--------|-----|-----|----|-----------
+{{< xa id="fire-symbol" >}} Elemental Harmony|Class|Bard|10|1|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
+{{< xa id="health-increase" >}} Healing Treble|Class|Bard|10|1|Healing songs heal from 0% to 5% more.
+{{< xa id="heavy-shield" >}} Psalm of Norrath|Class|Bard|10|1|Damage shield songs deal from 0% to 10% more damage.
+{{< xa id="unplugged" >}} Cassindra's Chorus|Class|Bard|10|1|Mana songs regen from 0% to 12% more.
+{{< xa id="bolt-shield" >}} Shield of Songs|Class|Bard|10|1|Rune songs increase from 0% to 13% more rune effect.
+{{< xa id="bottled-bolt" >}} Katta's Concord|Class|Bard|10|1|Katta's Song of Sword now also gives a 100 proc chance to those with the buff to deal from 0 to 3 weapon damage.
+{{< xa id="pawn" >}} Cassindra's Secret|Class|Bard|10|1|Enhances Cassindra\'s Elegy from 0 to 2 mana.
+{{< xa id="fluffy-swirl" >}} Jonthon's Whistle|Class|Bard|10|1|Grants the bard a passive 300 mod proc that deals 12 magic damage.
+{{< xa id="lightning-sword" >}} Innate Songblade|Class|Bard|10|1|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
+{{< xa id="microphone" >}} Harmonic Affinity|Class|Bard|10|1|Increase proc chance modifier from 0% to 2% on all spells.
+{{< xa id="ship-emblem" >}} Bard's Wish|Class|Bard|1|10|All beneficial songs last an additional tick.
+{{< xa id="chain" >}} Chant Cycle|Class|Bard|10|1|Chants with DoT effects now deal from 0% to 2% more damage.
+{{< xa id="horns" >}} Boastful Bellow|Class|Bard|10|1|Grants the Boastful Bellow AA which causes damage and briefly stuns the enemy. Lowers reuse time from 0 to 2 seconds.
+{{< xa id="boot-stomp" >}} Selo's Crescendo|Class|Bard|1|5|Selo's movement songs now work indoors.
+{{< xa id="hearts" >}} Soothing Melody|Class|Bard|10|1|When the bard uses a song with a healing effect on themselves, reduces hate of their target from heal amount * 0 to heal amount * 1.
+{{< xa id="nodular" >}} Extended Notes|Class|Bard|10|1|Increases range of beneficial songs from 0% to 10%.
+{{< xa id="brain-freeze" >}} Mind Devourer|Class|Bard|10|1|When you cast a detrimental spell against a monster with mana, you have from 0% to 1% chance to recover from 0% to 5% mana.
+
+
+### General AAs - All
+
+Name|Category|Class|Ranks|Cost|Description
+----|--------|-----|-----|----|-----------
+{{< xa id="boot-stomp" >}} Innate Run Speed|General|All|10|1|Increase movement from 0% to 3% when not affected by a movement speed buff.
+{{< xa id="ammo-bag" >}} Packrat|General|All|10|1|Reduce weight of items in your inventory from 0% to 3%.
+{{< xa id="moon-sun" >}} Planar Power|General|All|10|1|Increase max STR/DEX/AGI/DEX/WIS/INT/CHA from 255 to 265 (+10).
+{{< xa id="hood" >}} Dark Elf|General|All|1|1|As a Dark Elf, you have ultravision, 100% metabolism, Hide, 5 Mana Regeneration, and 50 to FR/MR.
+{{< xa id="axe" >}} Barbarian|General|All|1|1|As a Barbarian, you have normal vision, 25% metabolism, Slam, and 60 to CR/DR.
+{{< xa id="beer" >}} Dwarf|General|All|1|1|As a Dwarf, you have normal infravision, 150% metabolism, Barrel Roll, and 50 to MR/PR.
+{{< xa id="book" >}} Erudite|General|All|1|1|As an Erudite, you have normal vision, 100% metabolism, 5 Mana Regeneration, -5 DR, 25 MR
+{{< xa id="water-drop" >}} Froglok|General|All|1|1|As a Froglok, you have normal vision, 100% metabolism, Backflip, and Everlasting Breath
+{{< xa id="gears" >}} Gnome|General|All|1|1|As a Gnome, you have infravision, 100% metabolism, Tinkering, 2 Mana Regeneration, 50 MR
+{{< xa id="seagull" >}} Half Elf|General|All|1|1|As a Half Elf, you have infravision, 100% metabolism, 2 Mana Regeneration, 20 MR/CR/FR/DR/PR
+{{< xa id="flask" >}} High Elf|General|All|1|1|As a High Elf, you have infravision, 100% metabolism, 6 Mana Regeneration
+{{< xa id="player" >}} Human|General|All|1|1|As a Human, you have normal vision, 100% metabolism, 25 MR/CR/FR/DR/PR
+{{< xa id="venomous-snake" >}} Iksar|General|All|1|1|As an Iksar, you have infravision, 100% metabolism, Forage, Improved Armor Class, Racial HP Regeneration, Everlasting Breath, -10 CR, 30 FR
+{{< xa id="muscle-fat" >}} Ogre|General|All|1|1|As an Ogre, you have infravision, 175% metabolism, Slam, All Direction Stun Immunity
+{{< xa id="health" >}} Troll|General|All|1|1|As a Troll, you have infravision, 175% metabolism, Slam, Racial HP Regeneration, -20 FR
+{{< xa id="palm-tree" >}} Wood Elf|General|All|1|1|As a Wood Elf, you have infravision, 25% metabolism, Forage, Hide, 50 MR/PR
+{{< xa id="cat" >}} Vah Shir|General|All|1|1|As a Vah Shir, you have normal vision, 100% metabolism
+{{< xa id="wyvern" >}} Drakkin|General|All|1|1|As a Drakkin, you have normal vision, 100% metabolism
+{{< xa id="aura" >}} Shin's Spirit|General|All|10|1|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
+{{< xa id="aware" >}} Shin's Soul|General|All|10|1|When you get resisted with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal. Charms, Dots, Slows and other duration non-damage offense spells may have lower duration on resist.
