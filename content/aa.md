@@ -8,29 +8,6 @@ summary: "List of Custom AAs available on RebuildEQ"
 
 Rebuild EQ hand crafts all the AAs for a custom experience. AAs are not gained in the classic sense, instead granted when you level up or by completing achievements.
 
-### Class AAs - Bard
-
-Name|Category|Class|Ranks|Cost|Description
-----|--------|-----|-----|----|-----------
-{{< xa id="fire-symbol" >}} Elemental Harmony|Class|Bard|10|1|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
-{{< xa id="health-increase" >}} Healing Treble|Class|Bard|10|1|Healing songs heal from 0% to 5% more.
-{{< xa id="heavy-shield" >}} Psalm of Norrath|Class|Bard|10|1|Damage shield songs deal from 0% to 10% more damage.
-{{< xa id="unplugged" >}} Cassindra's Chorus|Class|Bard|10|1|Mana songs regen from 0% to 12% more.
-{{< xa id="bolt-shield" >}} Shield of Songs|Class|Bard|10|1|Rune songs increase from 0% to 13% more rune effect.
-{{< xa id="bottled-bolt" >}} Katta's Concord|Class|Bard|10|1|Katta's Song of Sword now also gives a 100 proc chance to those with the buff to deal from 0 to 3 weapon damage.
-{{< xa id="pawn" >}} Cassindra's Secret|Class|Bard|10|1|Enhances Cassindra\'s Elegy from 0 to 2 mana.
-{{< xa id="fluffy-swirl" >}} Jonthon's Whistle|Class|Bard|10|1|Grants the bard a passive 300 mod proc that deals 12 magic damage.
-{{< xa id="lightning-sword" >}} Innate Songblade|Class|Bard|10|1|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
-{{< xa id="microphone" >}} Harmonic Affinity|Class|Bard|10|1|Increase proc chance modifier from 0% to 2% on all spells.
-{{< xa id="ship-emblem" >}} Bard's Wish|Class|Bard|1|10|All beneficial songs last an additional tick.
-{{< xa id="chain" >}} Chant Cycle|Class|Bard|10|1|Chants with DoT effects now deal from 0% to 2% more damage.
-{{< xa id="horns" >}} Boastful Bellow|Class|Bard|10|1|Grants the Boastful Bellow AA which causes damage and briefly stuns the enemy. Lowers reuse time from 0 to 2 seconds.
-{{< xa id="boot-stomp" >}} Selo's Crescendo|Class|Bard|1|5|Selo's movement songs now work indoors.
-{{< xa id="hearts" >}} Soothing Melody|Class|Bard|10|1|When the bard uses a song with a healing effect on themselves, reduces hate of their target from heal amount * 0 to heal amount * 1.
-{{< xa id="nodular" >}} Extended Notes|Class|Bard|10|1|Increases range of beneficial songs from 0% to 10%.
-{{< xa id="brain-freeze" >}} Mind Devourer|Class|Bard|10|1|When you cast a detrimental spell against a monster with mana, you have from 0% to 1% chance to recover from 0% to 5% mana.
-
-
 ### General AAs - All
 
 Name|Category|Class|Ranks|Cost|Description
@@ -55,3 +32,35 @@ Name|Category|Class|Ranks|Cost|Description
 {{< xa id="wyvern" >}} Drakkin|General|All|1|1|As a Drakkin, you have normal vision, 100% metabolism
 {{< xa id="aura" >}} Shin's Spirit|General|All|10|1|When you miss in melee, grants a 10% chance to succeed the attack anyway. Minimum damage on these recovery attacks might be lower than normal.
 {{< xa id="aware" >}} Shin's Soul|General|All|10|1|When you get resisted with an offensive spell, grants a 10% chance to succeed the spell anyway. Minimum damage on these magic spells might be lower than normal. Charms, Dots, Slows and other duration non-damage offense spells may have lower duration on resist.
+
+
+### Class AAs - Bard
+
+Name|Category|Class|Ranks|Cost|Description
+----|--------|-----|-----|----|-----------
+{{< xa id="fire-symbol" >}} Elemental Harmony|Class|Bard|10|1|Resist songs grant an additional resistance from 0 to 5 for each resistance type.
+{{< xa id="health-increase" >}} Healing Treble|Class|Bard|10|1|Healing songs heal from 0% to 5% more.
+{{< xa id="heavy-shield" >}} Psalm of Norrath|Class|Bard|10|1|Damage shield songs deal from 0% to 10% more damage.
+{{< xa id="unplugged" >}} Cassindra's Chorus|Class|Bard|10|1|Mana songs regen from 0% to 12% more.
+{{< xa id="bolt-shield" >}} Shield of Songs|Class|Bard|10|1|Rune songs increase from 0% to 13% more rune effect.
+{{< xa id="bottled-bolt" >}} Katta's Concord|Class|Bard|10|1|Katta's Song of Sword now also gives a 100 proc chance to those with the buff to deal from 0 to 3 weapon damage.
+{{< xa id="pawn" >}} Cassindra's Secret|Class|Bard|10|1|Enhances Cassindra\'s Elegy from 0 to 2 mana.
+{{< xa id="fluffy-swirl" >}} Jonthon's Whistle|Class|Bard|10|1|Grants the bard a passive 300 mod proc that deals 12 magic damage.
+{{< xa id="lightning-sword" >}} Innate Songblade|Class|Bard|10|1|Increase melee damage with 1h blunt/slash/piercing from 0% to 5%.
+{{< xa id="microphone" >}} Harmonic Affinity|Class|Bard|10|1|Increase proc chance modifier from 0% to 2% on all spells.
+{{< xa id="ship-emblem" >}} Bard's Wish|Class|Bard|1|10|All beneficial songs last an additional tick.
+{{< xa id="chain" >}} Chant Cycle|Class|Bard|10|1|Chants with DoT effects now deal from 0% to 2% more damage.
+{{< xa id="horns" >}} Boastful Bellow|Class|Bard|10|1|Grants the Boastful Bellow AA which causes damage and briefly stuns the enemy. Lowers reuse time from 0 to 2 seconds.
+{{< xa id="boot-stomp" >}} Selo's Crescendo|Class|Bard|1|5|Selo's movement songs now work indoors.
+{{< xa id="hearts" >}} Soothing Melody|Class|Bard|10|1|When the bard uses a song with a healing effect on themselves, reduces hate of their target from heal amount * 0 to heal amount * 1.
+{{< xa id="nodular" >}} Extended Notes|Class|Bard|10|1|Increases range of beneficial songs from 0% to 10%.
+{{< xa id="biohazard" >}} Siren's Song|Class|Bard|10|1|Charm songs now cost from 0% to 5% less mana.
+{{< xa id="moon-sun" >}} Lingering Twilight|Class|Bard|1|10|Mesmerizing songs last 1 tick longer
+
+
+### Class AAs - Enchanter
+
+Name|Category|Class|Ranks|Cost|Description
+----|--------|-----|-----|----|-----------
+{{< xa id="brain-freeze" >}} Mind Devourer|Class|Enchanter|10|1|When you cast a detrimental spell against a monster with mana, you have from 0% to 1% chance to recover from 0% to 5% mana.
+{{< xa id="batteries" >}} Color Shock|Class|Enchanter|10|1|When you are dealt non-runed melee damage in combat, you have from 0% to 1% chance to stun the enemy.
