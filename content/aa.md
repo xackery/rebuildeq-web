@@ -8,6 +8,13 @@ summary: "List of Custom AAs available on RebuildEQ"
 
 Rebuild EQ hand crafts all the AAs for a custom experience. AAs are not gained in the classic sense, instead granted when you level up or by completing achievements.
 
+### Class AAs - Cleric
+
+Name|Category|Class|Ranks|Cost|Description
+----|--------|-----|-----|----|-----------
+{{< xa id="player-lift" >}} Believe|Class|Cleric|10|1|The cleric gains a 300 mod proc that deals from 0 to 5 magic damage, and half the damage is health back to the cleric.
+
+
 ### General AAs - All
 
 Name|Category|Class|Ranks|Cost|Description
@@ -56,6 +63,7 @@ Name|Category|Class|Ranks|Cost|Description
 {{< xa id="nodular" >}} Extended Notes|Class|Bard|10|1|Increases range of beneficial songs from 0% to 10%.
 {{< xa id="biohazard" >}} Siren's Song|Class|Bard|10|1|Charm songs now cost from 0% to 5% less mana.
 {{< xa id="moon-sun" >}} Lingering Twilight|Class|Bard|1|10|Mesmerizing songs last 1 tick longer
+{{< xa id="overmind" >}} Fading Memories|Class|Bard|1|10|Grants the Fading Memories AA, allowing you to escape all aggressions towards you. Costs 200 mana.
 
 
 ### Class AAs - Enchanter
