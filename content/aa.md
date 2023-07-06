@@ -14,6 +14,9 @@ Name|Category|Class|Ranks|Cost|Description
 ----|--------|-----|-----|----|-----------
 {{< xa id="player-lift" >}} Believe|Class|Cleric|10|1|The cleric gains a 300 mod proc that deals from 0 to 5 magic damage, and half the damage is health back to the cleric.
 {{< xa id="round-shield" >}} Ward of Vie|Class|Cleric|10|1|All ward spells last from 0% to 10% additional maximum hitpoints.
+{{< xa id="wolf-howl" >}} Harken the Gods|Class|Cleric|1|10|Yaulp now gives increased accuracy, attack, and mana regen.
+{{< xa id="aquarius" >}} Blessing of Haste|Class|Cleric|10|1|All spell haste spells are 0% to 10% more effective on the cleric.
+{{< xa id="flat-hammer" >}} Divine Hammer|Class|Cleric|10|1|The cleric gains a 60 mod proc that deals from 0 to 15 damage.
 
 
 ### General AAs - All
