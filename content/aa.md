@@ -8,17 +8,6 @@ summary: "List of Custom AAs available on RebuildEQ"
 
 Rebuild EQ hand crafts all the AAs for a custom experience. AAs are not gained in the classic sense, instead granted when you level up or by completing achievements.
 
-### Class AAs - Cleric
-
-Name|Category|Class|Ranks|Cost|Description
-----|--------|-----|-----|----|-----------
-{{< xa id="player-lift" >}} Believe|Class|Cleric|10|1|The cleric gains a 300 mod proc that deals from 0 to 5 magic damage, and half the damage is health back to the cleric.
-{{< xa id="round-shield" >}} Ward of Vie|Class|Cleric|10|1|All ward spells last from 0% to 10% additional maximum hitpoints.
-{{< xa id="wolf-howl" >}} Harken the Gods|Class|Cleric|1|10|Yaulp now gives increased accuracy, attack, and mana regen.
-{{< xa id="aquarius" >}} Blessing of Haste|Class|Cleric|10|1|All spell haste spells are 0% to 10% more effective on the cleric.
-{{< xa id="flat-hammer" >}} Divine Hammer|Class|Cleric|10|1|The cleric gains a 60 mod proc that deals from 0 to 15 damage.
-
-
 ### General AAs - All
 
 Name|Category|Class|Ranks|Cost|Description
@@ -76,3 +65,15 @@ Name|Category|Class|Ranks|Cost|Description
 ----|--------|-----|-----|----|-----------
 {{< xa id="brain-freeze" >}} Mind Devourer|Class|Enchanter|10|1|When you cast a detrimental spell against a monster with mana, you have from 0% to 1% chance to recover from 0% to 5% mana.
 {{< xa id="batteries" >}} Color Shock|Class|Enchanter|10|1|When you are dealt non-runed melee damage in combat, you have from 0% to 1% chance to stun the enemy.
+
+
+### Class AAs - Cleric
+
+Name|Category|Class|Ranks|Cost|Description
+----|--------|-----|-----|----|-----------
+{{< xa id="player-lift" >}} Believe|Class|Cleric|10|1|The cleric gains a 300 mod proc that deals from 0 to 5 magic damage, and half the damage is health back to the cleric.
+{{< xa id="round-shield" >}} Ward of Vie|Class|Cleric|10|1|All ward spells last from 0% to 10% additional maximum hitpoints.
+{{< xa id="wolf-howl" >}} Harken the Gods|Class|Cleric|1|10|Yaulp now gives increased accuracy, attack, and mana regen.
+{{< xa id="aquarius" >}} Blessing of Haste|Class|Cleric|10|1|All spell haste spells are 0% to 10% more effective on the cleric.
+{{< xa id="flat-hammer" >}} Divine Hammer|Class|Cleric|10|1|The cleric gains a 60 mod proc that deals from 0 to 15 damage.
+{{< xa id="sunbeams" >}} Divine Resurrection|Class|Cleric|1|10|Grants the Divine Resurrection AA, reviving a fallen player. Reuse time is 12 hours.
