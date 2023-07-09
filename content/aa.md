@@ -77,3 +77,4 @@ Name|Category|Class|Ranks|Cost|Description
 {{< xa id="aquarius" >}} Blessing of Haste|Class|Cleric|10|1|All spell haste spells are 0% to 10% more effective on the cleric.
 {{< xa id="flat-hammer" >}} Divine Hammer|Class|Cleric|10|1|The cleric gains a 60 mod proc that deals from 0 to 15 damage.
 {{< xa id="sunbeams" >}} Divine Resurrection|Class|Cleric|1|10|Grants the Divine Resurrection AA, reviving a fallen player. Reuse time is 12 hours.
+{{< xa id="chessboard" >}} Promise|Class|Cleric|10|1|All heals done by a cleric have their mana cost reduced by 0% to 5% mana.
